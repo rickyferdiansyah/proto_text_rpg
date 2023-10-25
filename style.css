@@ -1,0 +1,13 @@
+html, body{
+    background-color: #000000;
+    color: #00ff00;
+    font-size: 32px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+button{
+    font-size: 32px !important;
+    text-decoration: none !important;
+}
